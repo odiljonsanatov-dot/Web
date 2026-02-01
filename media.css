@@ -1,0 +1,71 @@
+@media (maw-width: 1200px) {
+  .menu {
+    justify-content: none;
+    padding-right: 900px;
+  }
+  #i3 {
+    display: none;
+  }
+}
+@media (maw-width: 420px) {
+  .menu-text {
+    display: none;
+  }
+  .center {
+    font-size: 24px;
+  }
+}
+@media (max-width: 3000px) {
+  .menu-img {
+    display: none;
+  }
+}
+@media (max-width: 1160px) {
+  #imp {
+    display: none;
+  }
+  .color {
+    display: none;
+  }
+  .menu-img {
+    display: flex;
+    align-items: center;
+  }
+  .center {
+    font-size: 75px;
+  }
+  .menu {
+    padding-left: 120px;
+  }
+  #i3 {
+    display: none;
+  }
+  .ocean-2 {
+    display: none;
+  }
+  .horse {
+    display: none;
+  }
+  .river {
+    display: none;
+  }
+  .city {
+    display: none;
+  }
+}
+@media (max-width: 905px) {
+  .center {
+    font-size: 55px;
+  }
+  .menu {
+    padding-left: 50px;
+  }
+}
+@media (max-width: 882px) {
+  #i2 {
+    display: none;
+  }
+  #i1 {
+    justify-content: center;
+  }
+}/*# sourceMappingURL=media.css.map */
